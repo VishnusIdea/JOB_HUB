@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VishnusIdea/JOB_HUB/static/css/main.efd27454.css",
-    "main.js": "/VishnusIdea/JOB_HUB/static/js/main.e53895bd.js",
-    "index.html": "/VishnusIdea/JOB_HUB/index.html",
-    "main.efd27454.css.map": "/VishnusIdea/JOB_HUB/static/css/main.efd27454.css.map",
-    "main.e53895bd.js.map": "/VishnusIdea/JOB_HUB/static/js/main.e53895bd.js.map"
+    "main.css": "//github.com/VishnusIdea/Do-u-know/static/css/main.efd27454.css",
+    "main.js": "//github.com/VishnusIdea/Do-u-know/static/js/main.e53895bd.js",
+    "index.html": "//github.com/VishnusIdea/Do-u-know/index.html",
+    "main.efd27454.css.map": "//github.com/VishnusIdea/Do-u-know/static/css/main.efd27454.css.map",
+    "main.e53895bd.js.map": "//github.com/VishnusIdea/Do-u-know/static/js/main.e53895bd.js.map"
   },
   "entrypoints": [
     "static/css/main.efd27454.css",
